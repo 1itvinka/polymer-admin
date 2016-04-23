@@ -30,7 +30,7 @@
       }
     </style>
 
-    <h2>{{ title }}</h2>
+    <h2>{{ pageTitle }}</h2>
     <span class="flex"></span>
     <paper-icon-button icon="view-module" selected$="{{colsview}}" on-click="setColsView"></paper-icon-button>
     <paper-icon-button icon="view-stream" selected$="{{!colsview}}" on-click="setStreamView"></paper-icon-button>
@@ -44,7 +44,7 @@
         is: 'pa-page-title',
 
         properties: {
-          title: {
+          pageTitle: {
             type: String,
             value: 'Page Title'
           },
