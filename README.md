@@ -62,9 +62,9 @@ License
 
 ## Future
 
-It's just a first version, but we will continue development of this template to create the whole framework that can be applied to develop admin dashboards using Polymer.
+It is the very first version, but we will continue on this template development in order to create the whole framework that can be applied to develop admin dashboards using Polymer.
 
-We are eager to hear your feedback to make the template better.
+We are eager to get your feedback on making the template better.
 
 Enjoy!
 
